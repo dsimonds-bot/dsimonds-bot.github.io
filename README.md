@@ -14,7 +14,7 @@ LiChess ♟️ : dsimonds-bot <br/>
 ### [Generalized Linear Log Curves](https://github.com/dsimonds-bot/generalized-yield-curves)
 A standardized way to quickly generate linear-log curves. User need only specify a few file directories, and they'll have a regression summary, MAE results, and visuals stored locally. Marketers may find use in these showing diminshing returns to audience scale.
 
-![](https://github.com/dsimonds-bot/dsimonds-bot.github.io/blob/main/docs/assets/linear-log-curve.PNG)
+![Linear-Log Curve](https://github.com/dsimonds-bot/dsimonds-bot.github.io/blob/main/docs/assets/linear-log-curve.PNG)
 
 ### [WIP: Google Trends Forecasting](https://github.com/dsimonds-bot/google-trends-machine-learning)
 A work-in-progress notebook to forecast google trends interest for a specific keyword overtime. Next step is to include time series forecasting to underlying raw data. Marketing Analytics teams may use this as a proxy to forecast consumer demand for a certain topic. 
