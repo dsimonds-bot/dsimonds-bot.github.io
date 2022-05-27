@@ -18,3 +18,5 @@ A standardized way to quickly generate linear-log curves. User need only specify
 
 ### [WIP: Google Trends Forecasting](https://github.com/dsimonds-bot/google-trends-machine-learning)
 A work-in-progress notebook to forecast google trends interest for a specific keyword overtime. Next step is to include time series forecasting to underlying raw data. Marketing Analytics teams may use this as a proxy to forecast consumer demand for a certain topic. 
+
+![Telescope](docs/assets/telescope.PNG)
