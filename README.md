@@ -9,6 +9,13 @@ Twitter 🐦 : @DaveSimonds2 <br/>
 LinkedIn 🕴️ : [David Simonds](https://www.linkedin.com/in/david-simonds-440010117/) <br/>
 LiChess ♟️ : dsimonds-bot <br/>
 
+## Skills
+- Python fluent
+- R comfortable
+- Experience in time series forecasting, regression analysis, machine learning
+- Demonstrated experience in Snowflake, Amazon Redshift, BigQuery
+- Departmental lead in GitHub structure and compliance
+
 ## Projects
 
 ### [Generalized Linear Log Curves](https://github.com/dsimonds-bot/generalized-yield-curves)
