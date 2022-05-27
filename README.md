@@ -11,5 +11,7 @@ LiChess ♟️ : dsimonds-bot <br/>
 
 ## Projects
 
-### Generalized Linear Log Curves
+### [Generalized Linear Log Curves](https://github.com/dsimonds-bot/generalized-yield-curves)
 A standardized way to quickly generate linear-log curves. User need only specify a few file directories, and they'll have a regression summary, MAE results, and visuals stored locally. Marketers may find use in these showing diminshing returns to audience scale.
+
+![](https://github.com/dsimonds-bot/dsimonds-bot.github.io/blob/main/docs/assets/linear-log-curve.PNG)
