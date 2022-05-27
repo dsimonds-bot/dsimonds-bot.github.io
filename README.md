@@ -10,11 +10,11 @@ LinkedIn 🕴️ : [David Simonds](https://www.linkedin.com/in/david-simonds-440
 LiChess ♟️ : dsimonds-bot <br/>
 
 ## Skills
-- Python fluent
+- Python **fluent**
 - R comfortable
-- Experience in time series forecasting, regression analysis, machine learning
+- Experience in **time series forecasting**, regression analysis, machine learning
 - Demonstrated experience in Snowflake, Amazon Redshift, BigQuery
-- Departmental lead in GitHub structure and compliance
+- **Departmental lead** in GitHub structure and compliance
 
 ## Projects
 
